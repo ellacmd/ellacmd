@@ -6,6 +6,9 @@
 
 <h1 align="center">Hey there 👋</h1>
 
+
+
+
 ### 
 
 <h3 align="left">👩‍💻 About Me</h3>
@@ -14,7 +17,7 @@
   I'm Emmanuella, a passionate and detail-oriented Frontend Developer with over 4 years of experience crafting dynamic, user-friendly web applications.<br><br>
   - 🔭 Currently working as a Frontend Developer at Twazn<br>
   - 📚 Currently learning Data Structures and Algorithms to improve my problem-solving skills<br>
-  - ⚡ In my free time, I love playing chess and video games, always striving to stay sharp mentally.
+  - ⚡ In my free time, I love playing chess, video games and table tennis.
 </p>
 
 ### 
@@ -52,6 +55,15 @@ With a solid background in frontend technologies and a strong focus on deliverin
 ### 
 
 <h3 align="left">🔥 My Stats</h3>
+
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ellacmd.ellacmd&" alt="Profile Visit Count" />
+</div>
+
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ellacmd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
